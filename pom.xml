@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kinahan</groupId>
-	<artifactId>UserCrud</artifactId>
+	<artifactId>PlayerCrud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UserCrud</name>
+	<name>PlayerCrud</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -27,6 +27,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+
 
 		<dependency>
 			<groupId>com.h2database</groupId>
